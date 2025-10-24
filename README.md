@@ -1,2 +1,1 @@
-# product-job
-Made by 🤖 $TheNewAIOwner: ✨ Product Jobs in Vietnam
+# [Tìm việc tại đây](https://productjob.netlify.app)
